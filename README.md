@@ -1,6 +1,6 @@
-🎬 YouTube Comment Sentiment & Language Analysis Project
+# 🎬 YouTube Comment Sentiment & Language Analysis Project
 
-##📌 1. Introduction
+## 📌 1. Introduction
 
 This project is an AI-powered YouTube analytics system that collects comments from YouTube videos and performs:
 
