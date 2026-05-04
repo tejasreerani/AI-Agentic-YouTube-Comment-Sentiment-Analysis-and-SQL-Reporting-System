@@ -100,7 +100,7 @@ The project includes an intelligent chatbot that:
 -> Returns confidence score
 
 * Example:
-Comment: "Super movie bro 🔥"Language: English + TeluguSentiment: PositiveScore: 0.95
+Comment: "Super movie anna 🔥"Language: English + TeluguSentiment: PositiveScore: 0.95
 
 ## 📁 11. Project Structure
 
